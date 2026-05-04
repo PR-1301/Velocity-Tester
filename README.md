@@ -165,6 +165,18 @@ MIT
 
 Feel free to open issues or submit pull requests for improvements!
 
+
+<img width="1920" height="1080" alt="velocity" src="https://github.com/user-attachments/assets/f683648e-d12a-4036-9047-31ab30169d9f" />
+
+---
+<img width="1892" height="873" alt="Screenshot_20260504_125634" src="https://github.com/user-attachments/assets/667e7057-7051-4be8-b58f-f72d5384eb4d" />
+
 ---
 
-**Built with ⌨️ and ❤️ for typing enthusiasts**
+<img width="1920" height="908" alt="Screenshot_20260504_125527" src="https://github.com/user-attachments/assets/67735cf8-ddbb-408b-a0dd-a535da6335be" />
+
+---
+
+<img width="1907" height="914" alt="Screenshot_20260504_123925" src="https://github.com/user-attachments/assets/1f543a73-00a4-4b4a-8fbc-cfe42667c26b" />
+
+---
