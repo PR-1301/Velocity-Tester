@@ -1,0 +1,8 @@
+node_modules
+dist
+.git
+.gitignore
+README.md
+Dockerfile
+# nginx.conf should NOT be ignored as it is needed for the Docker build
+npm-debug.log
